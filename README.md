@@ -11,3 +11,4 @@ Random notes
 * https://github.com/cantino/mcfly
 * https://github.com/ajeetdsouza/zoxide
 * https://github.com/rupa/z
+* https://github.com/babarot/enhancd
