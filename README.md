@@ -8,3 +8,5 @@ Random notes
 * https://github.com/artempyanykh/shellmark Cross-platform bookmarks manager for your shell
 * https://github.com/junegunn/fzf with https://dmitryfrank.com/articles/shell_shortcuts
 * https://github.com/huyng/bashmarks
+* https://github.com/cantino/mcfly
+* https://github.com/ajeetdsouza/zoxide
