@@ -10,3 +10,4 @@ Random notes
 * https://github.com/huyng/bashmarks
 * https://github.com/cantino/mcfly
 * https://github.com/ajeetdsouza/zoxide
+* https://github.com/rupa/z
