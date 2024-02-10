@@ -11,7 +11,6 @@ Random notes
 * https://github.com/gsamokovarov/jump (Go) Jump helps you navigate faster by learning your habits. ✌️ 
 * https://github.com/ajeetdsouza/zoxide (Rust) A smarter cd command. Supports all major shells. 
 
-* 
 ### Marks
 
 * https://github.com/artempyanykh/shellmark Cross-platform bookmarks manager for your shell
