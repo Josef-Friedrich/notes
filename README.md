@@ -21,4 +21,9 @@ Random notes
   
 * https://github.com/junegunn/fzf with https://dmitryfrank.com/articles/shell_shortcuts
 * https://github.com/cantino/mcfly
-* https://github.com/babarot/enhancd (Shell) A next-generation cd command with your interactive filter 
+* https://github.com/babarot/enhancd (Shell) A next-generation cd command with your interactive filter
+
+## TOTP (Time-based One-time Password) on the command line 
+
+https://github.com/yitsushi/totp-cli (Go) outdated
+https://github.com/tadeck/onetimepass (Python)
